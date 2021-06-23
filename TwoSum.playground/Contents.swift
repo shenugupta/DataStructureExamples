@@ -23,7 +23,7 @@ for index in 0...arr.count-1 {
 
 var obj = CalculateSum()
 var arr = [3,5,6,2,5,4,8,2]
-let targetValue = 7
+let targetValue = 8
 
 
 var twoSumOutput = obj.getTwoSumInArrayOfTargetVal(arr: arr, targetVal: targetValue)
